@@ -1,5 +1,5 @@
 Hi, I'm @Sheila-Mutai,
-I am a recent graduate with expertise in HTML, CSS, Python, SQL, Data Science and Kotlin. Passionate about developing innovative solutions and diving deep into the world of data.
+I am a recent graduate with expertise in HTML, CSS, Python, SQL, Data Science, Cybersecurity and Kotlin. Passionate about developing innovative solutions and diving deep into the world of data.
 
 Skills and Technologies
 -Languages: HTML,Python, SQL and Kotlin.
